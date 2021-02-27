@@ -6,3 +6,4 @@ git log
 git diff(compare working directory with staging)
 git diff --staged(compare last commit with staging)
 git checkout -f
+git commit -a -m "Skipped staging area and directly commit"
