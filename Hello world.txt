@@ -1,1 +1,8 @@
-2nd commit after change
+git add --a
+git commit -m "write ur message here"
+touch .gitignore
+git status
+git log
+git diff(compare working directory with staging)
+git diff --staged(compare last commit with staging)
+git checkout -f
