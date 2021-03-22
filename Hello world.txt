@@ -7,3 +7,7 @@ git diff(compare working directory with staging)
 git diff --staged(compare last commit with staging)
 git checkout -f (match mith last commit)
 git commit -a -m "skipped staging and directly commit"
+touch newfile.html
+git rm --cached newfile.html (removes from staging but will still be present on hard disk)
+git rm newfile.html (deletes files from hard disk)
+  
