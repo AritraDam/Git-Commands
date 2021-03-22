@@ -5,5 +5,5 @@ git status
 git log
 git diff(compare working directory with staging)
 git diff --staged(compare last commit with staging)
-git checkout -f
+git checkout -f (match mith last commit)
 git commit -a -m "skipped staging and directly commit"
