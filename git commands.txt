@@ -11,4 +11,10 @@ touch newfile.html
 git rm --cached newfile.html (removes from staging but will still be present on hard disk)
 git rm newfile.html (deletes files from hard disk)
 git status -s (summarised version of status)
+git branch feature1 (creates a branch named feature1)
+git branch (list of branch present)
+git checkout feature1 (switch from current branch to feature1)
+git merge feature1 (merges feature1 to my working branch)
+git checkout -b sax (makes a branch named sax and also checkout to that branch)
+
   
