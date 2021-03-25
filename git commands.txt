@@ -17,4 +17,8 @@ git checkout feature1 (switch from current branch to feature1)
 git merge feature1 (merges feature1 to my working branch)
 git checkout -b sax (makes a branch named sax and also checkout to that branch)
 git clone *link (to clone someones repo)
+git remote add origin *link (connecting remote repo with our local repo)
+git push -u origin ( is used for pushing local content to GitHub)
+git remote -v (gives links for fetch & push)
+ 
   
