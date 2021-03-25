@@ -1,6 +1,6 @@
-git add --a
+git add --a (add files to staging)
 git commit -m "write ur message here"
-touch .gitignore
+touch .gitignore (touch is used to create files)
 git status
 git log
 git diff(compare working directory with staging)
